@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6e12a123004f4fb0afd832dfb42ba864/artifacts
+end_time: 1753467061632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e12a123004f4fb0afd832dfb42ba864
+run_name: rogue-seal-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753467061520
+status: 3
+tags: []
+user_id: VICTUS

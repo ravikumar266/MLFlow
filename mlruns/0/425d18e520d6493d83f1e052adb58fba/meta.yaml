@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/425d18e520d6493d83f1e052adb58fba/artifacts
+end_time: 1753466897845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 425d18e520d6493d83f1e052adb58fba
+run_name: capricious-snail-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753466897731
+status: 3
+tags: []
+user_id: VICTUS

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/355569344140911715/aa2d585a47f14ba68d0b4de77278d5b4/artifacts
+end_time: 1753475250225
+entry_point_name: ''
+experiment_id: '355569344140911715'
+lifecycle_stage: active
+run_id: aa2d585a47f14ba68d0b4de77278d5b4
+run_name: bedecked-bat-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753475248987
+status: 3
+tags: []
+user_id: VICTUS

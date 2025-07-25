@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/eab5425fd00041608907e60ed1de7499/artifacts
+end_time: 1753472269577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eab5425fd00041608907e60ed1de7499
+run_name: flawless-bear-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753472268316
+status: 3
+tags: []
+user_id: VICTUS
