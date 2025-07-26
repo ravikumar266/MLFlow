@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db0a988d29b34d8da7736d98bec5aee4/artifacts
+end_time: 1753530576993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db0a988d29b34d8da7736d98bec5aee4
+run_name: whimsical-elk-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530576921
+status: 3
+tags: []
+user_id: VICTUS

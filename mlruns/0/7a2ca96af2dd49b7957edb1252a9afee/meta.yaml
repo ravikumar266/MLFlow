@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7a2ca96af2dd49b7957edb1252a9afee/artifacts
+end_time: 1753530577698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a2ca96af2dd49b7957edb1252a9afee
+run_name: delicate-calf-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530577612
+status: 3
+tags: []
+user_id: VICTUS

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8d6267d45bb648e08eebe091e4a3a3e1/artifacts
+end_time: 1753530577249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d6267d45bb648e08eebe091e4a3a3e1
+run_name: traveling-doe-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530577172
+status: 3
+tags: []
+user_id: VICTUS

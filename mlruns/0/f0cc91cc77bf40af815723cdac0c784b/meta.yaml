@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f0cc91cc77bf40af815723cdac0c784b/artifacts
+end_time: 1753530577333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0cc91cc77bf40af815723cdac0c784b
+run_name: unique-fly-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530577257
+status: 3
+tags: []
+user_id: VICTUS

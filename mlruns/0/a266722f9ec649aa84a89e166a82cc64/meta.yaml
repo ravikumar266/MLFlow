@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a266722f9ec649aa84a89e166a82cc64/artifacts
+end_time: 1753530576826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a266722f9ec649aa84a89e166a82cc64
+run_name: delightful-skink-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530576734
+status: 3
+tags: []
+user_id: VICTUS

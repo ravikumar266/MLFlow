@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c3764e6551db42169a2b103d4b3bf292/artifacts
+end_time: 1753530576913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3764e6551db42169a2b103d4b3bf292
+run_name: carefree-pig-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530576835
+status: 3
+tags: []
+user_id: VICTUS

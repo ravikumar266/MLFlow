@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/VICTUS/Desktop/gitloancher/MLFlow/mlruns/520656681696376299/ab66da9fa14f4bddbf1a851c4f6cd0da/artifacts
+end_time: 1753530815509
+entry_point_name: ''
+experiment_id: '520656681696376299'
+lifecycle_stage: active
+run_id: ab66da9fa14f4bddbf1a851c4f6cd0da
+run_name: dashing-zebra-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530815416
+status: 3
+tags: []
+user_id: VICTUS

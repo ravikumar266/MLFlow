@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/15403bbb868145c89cdc77c10e086246/artifacts
+end_time: 1753530577603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15403bbb868145c89cdc77c10e086246
+run_name: enchanting-hound-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530577529
+status: 3
+tags: []
+user_id: VICTUS

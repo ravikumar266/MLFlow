@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c15817b540674337a2ad338566ce3eb1/artifacts
+end_time: 1753530577839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c15817b540674337a2ad338566ce3eb1
+run_name: unleashed-shrimp-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530570258
+status: 4
+tags: []
+user_id: VICTUS

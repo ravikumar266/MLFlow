@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/VICTUS/Desktop/gitloancher/MLFlow/mlruns/520656681696376299/319acf73d1a24f8280df33bd18c4dd4d/artifacts
+end_time: 1753530815313
+entry_point_name: ''
+experiment_id: '520656681696376299'
+lifecycle_stage: active
+run_id: 319acf73d1a24f8280df33bd18c4dd4d
+run_name: beautiful-hog-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530815227
+status: 3
+tags: []
+user_id: VICTUS

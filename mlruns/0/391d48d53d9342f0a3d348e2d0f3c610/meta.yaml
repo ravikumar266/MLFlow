@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/391d48d53d9342f0a3d348e2d0f3c610/artifacts
+end_time: 1753530577163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 391d48d53d9342f0a3d348e2d0f3c610
+run_name: shivering-finch-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530577087
+status: 3
+tags: []
+user_id: VICTUS

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/218fbfd4a0024670bffea807cef4d6a4/artifacts
+end_time: 1753530577079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 218fbfd4a0024670bffea807cef4d6a4
+run_name: gifted-gnu-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753530577002
+status: 3
+tags: []
+user_id: VICTUS
