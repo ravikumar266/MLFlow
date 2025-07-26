@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/355569344140911715/9b6b08bd98824c0b9192302e66bce591/artifacts
+end_time: 1753509608790
+entry_point_name: ''
+experiment_id: '355569344140911715'
+lifecycle_stage: active
+run_id: 9b6b08bd98824c0b9192302e66bce591
+run_name: judicious-cat-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753509596429
+status: 3
+tags: []
+user_id: VICTUS

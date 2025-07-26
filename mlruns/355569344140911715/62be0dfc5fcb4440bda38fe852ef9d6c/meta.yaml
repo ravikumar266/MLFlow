@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/355569344140911715/62be0dfc5fcb4440bda38fe852ef9d6c/artifacts
+end_time: 1753508384135
+entry_point_name: ''
+experiment_id: '355569344140911715'
+lifecycle_stage: active
+run_id: 62be0dfc5fcb4440bda38fe852ef9d6c
+run_name: nebulous-hog-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753508383595
+status: 3
+tags: []
+user_id: VICTUS

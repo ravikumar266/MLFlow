@@ -47,4 +47,7 @@ with mlflow.start_run():
     plt.savefig('confusion-matrix.png')
     mlflow.log_artifact('confusion-matrix.png') 
     # Output
+    mlflow.set_tags({"aurther": 'Ravi kumar', "project":'pta nhi'}) 
+    mlflow.sklearn.log_model(rf,"model")
+
     print(f"Accuracy: {score}")
